@@ -1,0 +1,38 @@
+#warning {
+  margin: 5px;
+  color: red;
+  padding: 5px;
+  border: 2px solid red;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+}
+
+#result {
+  margin: 5px;
+  color: green;
+  padding: 5px;
+  border: 2px solid green;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+}
+
+#num1 {
+  display: inline-block;
+  width: 300px;
+  margin-left: 5px;
+  height: 30px;
+}
+#num2 {
+  display: inline-block;
+  width: 300px;
+  height: 30px;
+}
+
+#oper{
+  display: inline-block;
+  width: 220px;
+  height: 35px;
+  margin-right: 5px;
+}
